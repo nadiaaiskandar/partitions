@@ -25,5 +25,4 @@ maintenance = { status = "actively-developed" }
 travis-ci = { repository = "DDOtten/partitions", branch = "master" }
 
 [dev-dependencies]
-
-proptest = { version = "0.8", optional = true }
+proptest = { version = "0.8"}
